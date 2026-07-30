@@ -1,7 +1,7 @@
 # Mi primer PR
 
-Este es un repositorio de practica para aprender como funciona un Pull Request en GitHub.
+Este es un repositorio de práctica para aprender cómo funciona un Pull Request en GitHub.
 
-## Que hace este proyecto
+## Qué hace este proyecto
 
-Nada todavia -- es solo un ejercicio de aprendizaje.
+Nada todavía -- es solo un ejercicio de aprendizaje.
